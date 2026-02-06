@@ -55,11 +55,3 @@ jobs:
       - run: npm run build --if-present
       - run: npm test
 ```
-
-# fse-s26-recitation-cicd
-
-# fse-s26-recitation-cicd
-
-# fse-s26-recitation-cicd
-# fse-s26-recitation-cicd
-# fse-s26-recitation-cicd
